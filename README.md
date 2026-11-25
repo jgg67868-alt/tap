@@ -1,4 +1,4 @@
-# Tap
+# Tap Majestic RP
 
 Tap показывает поверх игры иконки телефона и планшета. По иконке телефона открывается Telegram, по иконке планшета — Google. Работает с игрой Majestic Multiplayer, только на Windows.
 
